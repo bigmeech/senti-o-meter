@@ -4,4 +4,4 @@
 
 var sentometer = require("./lib/index.js");
 
-sentometer("this shit will fuck you up", function(score){console.log(score)})
+sentometer("this is really bad. I hate it so much", function(score){console.log(score)})
